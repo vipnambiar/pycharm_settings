@@ -1,0 +1,21 @@
+<scheme name="Darcula custom" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-10-15T17:58:39</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2016.2.0.0</property>
+    <property name="modified">2016-10-15T18:03:18</property>
+    <property name="originalScheme">Darcula cudtom</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+</scheme>
