@@ -11,14 +11,6 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="D:/Continuum/Anaconda3/python.exe" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
     </defaultProject>
   </component>
 </application>
