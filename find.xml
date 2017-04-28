@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/vipin/Projects/BCBSMA_544/jiva_buildout/src/jiva.sre.web/Products/ZeSentinel/ZeSentinelCtrl.py'" />
-    <option name="defaultScopeName" value="File '/home/vipin/Projects/BCBSMA_544/jiva_buildout/src/jiva.sre.web/Products/ZeSentinel/ZeSentinelCtrl.py'" />
-    <option name="SEARCH_SCOPE" value="File '/home/vipin/Projects/BCBSMA_544/jiva_buildout/src/jiva.sre.web/Products/ZeSentinel/ZeSentinelCtrl.py'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
