@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="file:$APPLICATION_PLUGINS_DIR$/markdown/lib/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/home/vipin/.PyCharmCE2017.1/config/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
     <MarkdownPreviewSettings>
       <HtmlPanelProviderInfo>
         <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
