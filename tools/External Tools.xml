@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="FL_Zeo_start" description="Start FL zeo" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Projects/BCBSFL_55/jiva_buildout/start_instance.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/BCBSFL_55/jiva_buildout" />
+    </exec>
+  </tool>
+  <tool name="FL_Zeo_stop" description="Stop FL Zeo" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Projects/BCBSFL_55/jiva_buildout/stop_instance.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/BCBSFL_55/jiva_buildout" />
+    </exec>
+  </tool>
+</toolSet>

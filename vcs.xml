@@ -6,7 +6,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="vipnambiar" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.zeomega.com:zeomega/jivabase.episode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Projects/BCBSFL_55/jiva_buildout/src" />
   </component>
 </application>
