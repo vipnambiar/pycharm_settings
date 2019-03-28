@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="9jysRxPQDsxzWzivsE4D" />
+          <option name="apiUrl" value="https://git.zeomega.com" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="git.zeomega.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
